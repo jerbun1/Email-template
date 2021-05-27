@@ -1,2 +1,2 @@
 # Email-template
-This is an email template that i Created 
+These are just a few examples of an email template that i created. Hope you enjoy 
